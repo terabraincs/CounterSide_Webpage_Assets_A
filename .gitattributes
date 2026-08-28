@@ -1,0 +1,3 @@
+* -text
+*.md text eol=lf
+*.jsonl text eol=lf
